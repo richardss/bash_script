@@ -1,6 +1,6 @@
 #/bin/bash
 ######Path:########
-loghome=/var/log/jboss/servers
+loghome=/var/log/name_app
 logarch=/var/log/rotate
 ##################
 app=$1
